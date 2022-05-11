@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:095579,100:a82da8&height=200&section=header&text=kong%20ji-han&fontSize=90&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:095579,100:a82da8&height=100&section=header&text=kong%20ji-han&fontSize=90&animation=blink)
 
 <h3 align = "center"> ⚒ Tech Stack ⚒</h3>
 <p align = "center"> I've used that least once </p>
@@ -27,4 +27,4 @@
 <p align = "center"> 📧 Email | wisejohn950330@gmail.com
 <p align = "center"> 📗 Notion
   
-![footer](https://capsule-render.vercel.app/api?type=soft&color=0:095579,100:a82da8&height=300&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=0:095579,100:a82da8&height=100&section=footer&fontSize=90)

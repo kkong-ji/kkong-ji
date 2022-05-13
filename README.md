@@ -26,5 +26,7 @@
 <h3 align = "center"> 📞 Contact 📞 </h3>
 <p align = "center"> 📧 Email | wisejohn950330@gmail.com
 <p align = "center"> 📗 Notion
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkong-ji&langs_count=8)](https://github.com/kkong-ji/github-readme-stats)
+
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=0:095579,100:a82da8&height=100&section=footer&fontSize=90)

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:095579,100:a82da8&height=200&section=header&text=Hello!%20I'm%20kong%20ji-han&fontSize=50&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:095579,100:a82da8&height=200&section=header&text=Hello!%20I'm%20i-han&fontSize=50&animation=blink)
 
 <div align = "center">
   <h3> ⚒ Tech Stack ⚒</h3>

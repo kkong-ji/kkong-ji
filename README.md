@@ -22,7 +22,7 @@
   </br>
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkong-ji&layout=compact&theme=jolly) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkong-ji&layout=compact&theme=tokyonight) 
   </br>
   🏅 Top Language 🏅 
 

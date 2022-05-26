@@ -22,8 +22,9 @@
   </br>
 
   </br>
-  🏅 Top Language 🏅 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkong-ji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  🏅 Top Language 🏅 
+ 
 
   <h3> 📞 Contact 📞 </h3>
     <p> 📧 Email | wisejohn950330@gmail.com </p>

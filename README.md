@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=css3&logoColor=black"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
+  </br>
+  
   <h3> 🙍‍♂ About Me 🙍‍♂ </h3>
     <p>
       <a href="https://velog.io/@kjh950330"><img src="https://img.shields.io/badge/Techblog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
@@ -21,11 +22,11 @@
     </p>
   </br>
 
-  </br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkong-ji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  🏅 Top Language 🏅 
- 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkong-ji&layout=compact)
+<h3> 🏅 Top Language 🏅 </h3>
+   
+  </br>
   <h3> 📞 Contact 📞 </h3>
     <p> 📧 Email | wisejohn950330@gmail.com </p>
     <p> 📗 Notion </p>

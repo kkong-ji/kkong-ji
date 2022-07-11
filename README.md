@@ -23,7 +23,7 @@
   </br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkong-ji&layout=compact&theme=shades-of-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkong-ji&layout=compact&theme=cobalt)
 <h3> 🏅 Top Language 🏅 </h3>
    
   </br>

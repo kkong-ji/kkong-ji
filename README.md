@@ -3,15 +3,19 @@
 <div align = "center">
   <h3> ⚒ Tech Stack ⚒</h3>
   <p>  I've used that least once  </p>
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=black"/>
     <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Javscript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=Junit5&logoColor=black"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/Javscript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=black"/>
     <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=css3&logoColor=black"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    
   </br>
   
   <h3> 🙍‍♂ About Me 🙍‍♂ </h3>

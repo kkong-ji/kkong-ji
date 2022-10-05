@@ -29,7 +29,7 @@
 
   <h3> 🏅 Top Language 🏅 </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkong-ji&exclude_repo=codingtest&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkong-ji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
    
   </br>

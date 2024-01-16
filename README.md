@@ -35,9 +35,6 @@
   </br>
   <h3> 📞 Contact 📞 </h3>
     <p> 📧 Email | wisejohn950330@gmail.com </p>
-    <p> 📗 Notion | https://kongjihan.notion.site/b3f9df9dea8d4986935ecc2d4fb623dd?pvs=4 </p>
 </div>
-
-
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=0:095579,100:a82da8&height=100&section=footer&fontSize=90)

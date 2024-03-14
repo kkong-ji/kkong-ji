@@ -21,7 +21,7 @@
   
   <h3> 🙍‍♂ About Me 🙍‍♂ </h3>
     <p>
-      <a href="https://velog.io/@kjh950330"><img src="https://img.shields.io/badge/Techblog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+      <a href="https://velog.io/@kjh950330/posts"><img src="https://img.shields.io/badge/Techblog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
       <a href="https://www.instagram.com/kkong_ji_95/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>  
       <a href="https://github.com/kkong-ji"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkong-ji%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     </p>
